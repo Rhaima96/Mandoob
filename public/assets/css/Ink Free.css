@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'Ink Free';
+	src: url(../../assets/fonts/InkFree.woff2) format('woff2'),
+	url(../../assets/fonts/InkFree.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}

@@ -1,0 +1,10 @@
+.fixed-top.navbar.active {
+    padding-top: 8px;
+    padding-bottom: 6px;
+    box-shadow: 0 8px 12px rgba(0, 0, 0, .20);
+    background-image: linear-gradient(to right, #87C05C, #44B595 70%) !important;
+    -webkit-transition: all ease-in-out 0.3s;
+    -moz-transition: all ease-in-out 0.3s;
+    -o-transition: all ease-in-out 0.3s;
+    transition: all ease-in-out 0.3s;
+}

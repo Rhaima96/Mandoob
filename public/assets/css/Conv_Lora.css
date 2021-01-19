@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Conv_Lora';
+	src: url(../../assets/fonts/Lora.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Lora.woff) format('woff'),
+	url(../../assets/fonts/Lora.ttf) format('truetype'),
+	url(../../assets/fonts/Lora.svg) format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
